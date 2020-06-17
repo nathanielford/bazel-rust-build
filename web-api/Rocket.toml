@@ -1,0 +1,9 @@
+
+[global]
+
+[development]
+
+[staging]
+
+[production]
+static_directory="static/"
